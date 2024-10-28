@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "HK8qLNqU8pIBIqWMyGiYViSVR9twvj/++7u8w2liFyTQuJMOEsoQ+aPrw+YvqI5pbD8iPiVhazmuU144+fv1WA==",
+  "success": true,
+  "projectFilePath": "/Users/reshmamaineedi/Downloads/NUnitDemonstration/TriangleTest/TriangleTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/reshmamaineedi/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/microsoft.net.test.sdk/17.6.0/microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/microsoft.testplatform.objectmodel/17.6.0/microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/microsoft.testplatform.testhost/17.6.0/microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/nunit/4.2.2/nunit.4.2.2.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/nunit.analyzers/3.6.1/nunit.analyzers.3.6.1.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/nunit.console/3.18.2/nunit.console.3.18.2.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/nunit.consolerunner/3.18.2/nunit.consolerunner.3.18.2.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/nunit.extension.nunitprojectloader/3.6.0/nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/nunit.extension.nunitv2driver/3.8.0/nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/nunit.extension.nunitv2resultwriter/3.6.0/nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/nunit.extension.teamcityeventlistener/1.0.7/nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/nunit.extension.vsprojectloader/3.8.0/nunit.extension.vsprojectloader.3.8.0.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/nunit3testadapter/4.6.0/nunit3testadapter.4.6.0.nupkg.sha512",
+    "/Users/reshmamaineedi/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
